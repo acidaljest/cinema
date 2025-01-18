@@ -1,2 +1,2 @@
 # cinema
-Proyect /on
+Project /on
